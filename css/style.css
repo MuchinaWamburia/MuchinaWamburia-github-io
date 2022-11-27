@@ -1,0 +1,50 @@
+html{
+    scroll-behavior: smooth;
+    background-color: rgb(254, 230, 245);
+}
+body{
+    height: fit-content;
+}
+.navbar{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar ul{
+    list-style-type: none ;
+    display: flex;
+}
+    .landing-page{ 
+        background-color: rgb(254, 230, 245);
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        padding: 20px;
+    }
+    .landing-page p{
+        font-family: sans-serif;
+        font-size: 22px;
+        font-style: oblique;
+    }
+    .landing-page img{
+         align-self: flex-end;
+        background: contains;
+        padding-right: 20px;
+        height: 600px;
+        width: 1000px;
+     }
+      img{ 
+        width: 250px;
+        height: 220px;
+     }
+    .footer{
+        display: flex;
+        padding: 40px;
+        justify-content: space-evenly;
+    }
+    /* projects.html */
+    
+    
+
+
