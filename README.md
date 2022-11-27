@@ -1,2 +1,7 @@
-# MuchinaWamburia-github-io
-Outlines projects am working on and interested in
+# MuchinaWamburia-github
+
+# Technologies Used
+HTML5
+CSS3
+JavaScript 
+<!-- projects .html -->
